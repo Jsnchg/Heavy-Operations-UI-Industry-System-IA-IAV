@@ -1,0 +1,29 @@
+Heavy-Operations-UI-Industry-System-IA-IAV
+BOM 10
+
+A. Industrial Automation Vehicle
+1. AC
+2. NCP51530
+3. NCP13992
+4. +12V
+5. PMOS
+6. NCV84120
+7. NCP59801
+8. NCV33035
+9. NCP81080
+10. NCS7031
+11. NCV78247
+12. NCS2211
+13. NCV75215DB001R2G
+14. 8080
+15. CAV24C256
+16. RSL15
+17. NCV33035
+18. NCS7031
+19. NCP81080
+20. LED
+21. Speaker
+22. DHT11
+
+Note:
+Components 20, 21 and 22 are added to make the project more unique
